@@ -1,2 +1,2 @@
-gitab-jh:latest
+registry.gitlab.cn/omnibus/gitab-jh:latest
 jenkins:lts
